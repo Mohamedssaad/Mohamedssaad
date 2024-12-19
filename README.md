@@ -1,12 +1,12 @@
-<h4 align="left">🚀 What I Do<br><br>🌐 Mobile App Development<br><br>Native Development: Proficient in Kotlin and Java to build high-performance native Android apps.<br><br>Cross-Platform Development: Skilled in frameworks like Flutter and React Native to create cross-platform solutions.<br><br>Architecture: Expertise in MVVM (Model-View-ViewModel) for clean, maintainable, and testable code.<br><br>💾 Backend & Database<br><br>Integration with Firebase for real-time databases, authentication, and push notifications.<br><br>Use of Room Database for efficient local data storage and management.<br><br>Experience with Retrofit for handling REST API calls and ensuring smooth server communication.<br><br>🎨 UI/UX Design<br><br>Expert in crafting user-friendly and visually appealing app interfaces using tools like Figma and Adobe XD.<br><br>Strong focus on responsive design and user-centric development to maximize user satisfaction.<br><br>🛠️ Tools & Technologies<br><br>Version Control: Git & GitHub for source control and collaboration.<br><br>CI/CD: Implementing continuous integration and deployment pipelines.<br><br>IDE: Proficient in Android Studio and other development tools.</h4>
-
-###
-
 <h1 align="left">Hi 👋! My name is  Mohamed  Saad</h1>
 
 ###
 
 <h4 align="left">Hi there! I'm a passionate Android Developer with +3 years of experience in crafting intuitive, efficient, and visually stunning mobile applications. My goal is to deliver apps that not only meet user expectations but exceed them with seamless functionality and beautiful design.</h4>
+
+###
+
+<h4 align="left">🚀 What I Do<br><br>🌐 Mobile App Development<br><br>Native Development: Proficient in Kotlin and Java to build high-performance native Android apps.<br><br>Cross-Platform Development: Skilled in frameworks like Flutter and React Native to create cross-platform solutions.<br><br>Architecture: Expertise in MVVM (Model-View-ViewModel) for clean, maintainable, and testable code.<br><br>💾 Backend & Database<br><br>Integration with Firebase for real-time databases, authentication, and push notifications.<br><br>Use of Room Database for efficient local data storage and management.<br><br>Experience with Retrofit for handling REST API calls and ensuring smooth server communication.<br><br>🎨 UI/UX Design<br><br>Expert in crafting user-friendly and visually appealing app interfaces using tools like Figma and Adobe XD.<br><br>Strong focus on responsive design and user-centric development to maximize user satisfaction.<br><br>🛠️ Tools & Technologies<br><br>Version Control: Git & GitHub for source control and collaboration.<br><br>CI/CD: Implementing continuous integration and deployment pipelines.<br><br>IDE: Proficient in Android Studio and other development tools.</h4>
 
 ###
 
